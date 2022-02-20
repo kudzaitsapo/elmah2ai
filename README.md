@@ -6,7 +6,7 @@ What is needed in order for this to work? Nothing much. Just a nuget package fil
 
 ## Steps Required to make the library work
 
-1. Obtain the Nuget Package of the library, and install it as a dependency to your project.
+1. Obtain the Nuget Package of the library from [here](https://www.nuget.org/packages/Elmah2AI.AppInsights/1.0.0), and install it as a dependency to your project.
 2. Once installed, create the application insights resource, and get the `Instrumentation Key` from Azure Portal. Click [here](https://docs.microsoft.com/en-us/azure/azure-monitor/app/create-workspace-resource) to find out how to do this.
 3. Open the `appsettings.json` of your project and add the following configurations:
 
