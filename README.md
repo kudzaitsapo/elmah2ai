@@ -53,17 +53,15 @@ That's it. No complicated code needs to be written. Just four simple steps.
 
 In order to access the logs, log into Azure Portal (https://portal.azure.com/ ) and then navigate to the Application Insights resource for your project. On the left sidebar, click on **Logs** under **Monitoring** (see below).
 
-[Image 1]
-
-
+![Image 1](https://raw.githubusercontent.com/kudzaitsapo/elmah2ai/main/examples/Image1.png)
 
 You might be presented with a modal, at this moment it's not necessary, so close it or disable it completely if you don't want to see it again (see below).
 
-[Image 2]
+![Image 2](https://raw.githubusercontent.com/kudzaitsapo/elmah2ai/main/examples/Image2.png)
 
 Once that's done, you'll have a screen like below:
 
-[Image 3]
+![Image 3](https://raw.githubusercontent.com/kudzaitsapo/elmah2ai/main/examples/Image3.png)
 
 From there, you can access request logs, exceptions, page views, custom logged events etc. You'll be accessing these logs by running queries inside the query editor and then pressing **Run**. You can also modify the time range of the logging, as Azure provides various options.
 
