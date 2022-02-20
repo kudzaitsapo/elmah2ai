@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elmah2AI.AppInsights", "src\Elmah2AI.AppInsights\Elmah2AI.AppInsights.csproj", "{9587E171-A0AE-4468-BBF9-4B90D7147B4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elmah2AI.SampleApp", "src\Elmah2AI.SampleApp\Elmah2AI.SampleApp.csproj", "{4EB66D93-0E04-4C9A-891C-3E1354648B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9587E171-A0AE-4468-BBF9-4B90D7147B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9587E171-A0AE-4468-BBF9-4B90D7147B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9587E171-A0AE-4468-BBF9-4B90D7147B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9587E171-A0AE-4468-BBF9-4B90D7147B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB66D93-0E04-4C9A-891C-3E1354648B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB66D93-0E04-4C9A-891C-3E1354648B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB66D93-0E04-4C9A-891C-3E1354648B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB66D93-0E04-4C9A-891C-3E1354648B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82660B30-B6D2-459C-A55A-AB21619CDCA9}
+	EndGlobalSection
+EndGlobal
